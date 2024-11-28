@@ -1,0 +1,12 @@
+Step by step
+1. we set up the environment so that it didnt affect the global env
+- create or open folder, then open new terminal
+- type this to install virtual env,  pip install virtualenv 
+- type this to create a virtual name as env, python -m venv env
+- type this to activate, .\env\Scripts\Activate
+- type, pip install flask flask-sqlalchemy
+
+2. run the requirement.txt
+- type, pip install -r requirements.txt
+
+3. type, streamlit run app.py

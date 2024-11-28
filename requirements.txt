@@ -1,0 +1,6 @@
+streamlit
+streamlit-navigation-bar
+streamlit-option-menu
+
+#local packages
+-e .
